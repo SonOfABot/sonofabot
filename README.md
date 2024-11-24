@@ -13,7 +13,7 @@
     </b>
     <br>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0B40FF&background=00000000&width=435&lines=Sleep%2C+Hack%2C+Repeat" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0B40FF&background=00000000&width=435&lines=Hack%2C+Cry%2C+Sleep%2C+Repeat" alt="Typing SVG">
     <br>
     <b>~ King Abdulmalik ~</b>
     <br>
